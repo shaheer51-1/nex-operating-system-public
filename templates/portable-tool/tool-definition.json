@@ -1,0 +1,10 @@
+{
+  "name": "replace_with_verb_noun",
+  "description": "Replace with a concise description of one specific action.",
+  "inputSchema": {
+    "type": "object",
+    "properties": {},
+    "required": [],
+    "additionalProperties": false
+  }
+}

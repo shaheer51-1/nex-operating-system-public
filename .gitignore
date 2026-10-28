@@ -1,0 +1,22 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+credentials/
+__pycache__/
+.venv/
+node_modules/
+dist/
+build/
+.DS_Store
+Thumbs.db
+
+# Local project data and generated/private working material
+/projects/
+/reports/
+/output/
+/docs/decisions/
+/docs/superpowers/
+/docs/project-registry.md

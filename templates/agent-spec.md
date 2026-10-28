@@ -1,0 +1,25 @@
+# Agent Specification
+
+- **Name:**
+- **Purpose (one sentence):**
+- **Owner/project:**
+- **Verified repository (if applicable):**
+- **Status:** SPECIFIED / CONFIGURED / CONNECTION-VERIFIED / TESTED / BLOCKED / DEPLOYED
+- **Platform/model and evidence:**
+- **Budget ceiling:**
+- **Cost/credit evidence:**
+- **Target users and trigger:**
+- **Required inputs:**
+- **Output contract:**
+- **Allowed tools and exact scopes:**
+- **Prohibited actions:**
+- **Data/privacy boundaries:**
+- **Human approval/escalation triggers:**
+- **Normal-path acceptance criteria:**
+- **Boundary/security test cases:**
+- **Failure handling:**
+- **Logging/retention rules:**
+- **Disable/rollback procedure:**
+- **Checks actually run and results:**
+- **Unverified assumptions/blockers:**
+- **Next action:**
